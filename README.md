@@ -1,3 +1,5 @@
+This repository is now a part of [qubyte/toisu-monorepo](https://github.com/qubyte/toisu-monorepo).
+
 # Toisu! middleware runner
 
 For Node.js versions less than 14 please use the 2.x line of releases.
